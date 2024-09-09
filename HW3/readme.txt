@@ -1,0 +1,4 @@
+HW3_Laplacian_*.py 是實作Experiment results時使用的執行程式
+HW3_Laplacian_gamma_*.py 是discussions時使用的執行程式
+HW3_612410125.pdf 是報告檔案
+HW3_test_image 是測試影像
